@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCLLkwqvY6k=",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\StudentManagementSystem\\StudentManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bk950\\.nuget\\packages\\system.data.oledb\\10.0.12\\system.data.oledb.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
